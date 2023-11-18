@@ -1,5 +1,5 @@
 ### Welcome To My Github. 
-### More About Me <a>https://blog.pikesi.ink/</a>
+### My Blog : <a>https://blog.pikesi.ink/</a>
 
 <!--
 **PiKesi522/PiKesi522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
