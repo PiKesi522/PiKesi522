@@ -1,5 +1,6 @@
 ### Welcome To My Github. 
 ### My Blog : <a>https://blog.pikesi.ink/</a>
+### My LinkedIn Page: <a>https://www.linkedin.com/in/chenjie-yu-8436b8296/</a>
 
 <!--
 **PiKesi522/PiKesi522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
